@@ -1,4 +1,4 @@
-package java.com.and.test;
+package com.and.test;
 
 import java.util.ArrayList;
 import java.util.Comparator;
